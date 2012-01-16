@@ -1,0 +1,4 @@
+# comentario
+*.a
+carpeta_ignorada/
+!exepcion.a
