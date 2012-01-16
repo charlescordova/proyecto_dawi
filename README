@@ -1,0 +1,14 @@
+Global setup:
+ Set up git
+  git config --global user.name "Your Name"
+  git config --global user.email charles.cordova@devstroyer.tk
+      
+Next steps:
+  mkdir proyecto_dawi
+  cd proyecto_dawi
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:charlescordova/proyecto_dawi.git
+  git push -u origin master
